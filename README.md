@@ -6,6 +6,8 @@
 
 ## Connect with me: 🚀
 - 📫 Email : **hello@neroshana.me**
+- Medium : **medium.com/@neroshana-me**
+- TryHackMe : **https://tryhackme.com/p/neroshana-me**
 
 I’m a 1st-year Software Engineering student at APIIT Sri Lanka (affiliated with Staffordshire University, UK) transitioning my expertise to pursue my dream: building a comprehensive cybersecurity knowledge hub and becoming a thought leader in the cybersecurity industry.
 
