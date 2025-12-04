@@ -82,6 +82,9 @@ After my 2nd year…
 <!-- Interested Domains: END -->
 
 
+<hr>
+
+
 <!-- Resume: START -->
 <details>
   <summary>📃 Resume</summary>
