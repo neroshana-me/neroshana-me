@@ -9,12 +9,16 @@
 <!-- Animation Typing: END -->
 
 ## About Me ⚡️
-✨ Hey, I’m Neroshana - Cyber nerd in training.
-- 🎓 Currently surviving (and thriving) as a 1st-year Software Engineering student.
-- 🛡️ I'm on a mission to break into cybersecurity and eventually build a huge security knowledge hub.
-- 🤖 I’m learning cloud security, AI-powered threat detection, and secure app development… one bug at a time.
-- 🎨 Ex–full-stack dev + UX/UI designer, I think about security like a designer: If users hate it, it doesn’t work.
-- 🌱 Fun Fact: I break things to learn, then fix them so no one else can. Ethical chaos only.
+✨ Hey, I’m Neroshana — Cyber nerd in training
+- 🎓 Currently learning : BEng (Hons) Software Engineering
+- 🏫 University : APIIT Sri Lanka (TNE partner of Staffordshire University, UK)
+- ☁️ Specialisation : Cloud Security, AI & Cloud-Based Software Development
+- 🔭 Working on  My Personal Website + a future cybersecurity knowledge hub
+- 🤖 Building skills in : Cloud security, AI-powered threat detection & secure app development… one bug at a time.
+- 🎨 Background : Ex–full-stack dev + UX/UI designer → now designing security people don’t hate.
+- 🌍 Languages : Sinhala & English
+- ⚡ Fun Fact : I break things to learn, then fix them so no one else can. Ethical chaos only.
+
 
 ## Blog & Writing ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
@@ -43,23 +47,10 @@ After 2nd Year...
 🫱‍🫲 Let’s connect and explore opportunities!
 
 ## Interested Domains ⭐
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40"/> Cloud Security
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
- AWS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
- AI
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
- Web Development 
-
-
-
-
-- 🌱 Currently learning : **BEng (Hons) Software Engineering**
-- 🏫 Univeristy : **APIIT Sri Lanka (TNE partner of Staffordshire University, UK)**
-- ☁️ Specialisation : **Cloud Security, AI & Cloud-Based Software Development**
-- 🔭 Working on : **My Personal Website**
-- 🌍 Languages : **Sinhala & English**
-- ⚡ Fun fact : **Freelance dev/designer transitioning into cloud security and AI**
+- 🛡️ Cloud Security
+- ☁️ AWS
+- 🤖 AI
+- 💻 Web Development
 
 <details>
   <summary>📃 Resume</summary>
