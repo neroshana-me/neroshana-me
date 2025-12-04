@@ -1,3 +1,4 @@
+
 <h1>
   Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> <a href="https://www.linkedin.com/in/neroshana-me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-me"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
 </h1>
@@ -5,6 +6,23 @@
 <!-- Animation Typing -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=1000&lines=BEng+Software+Engineering+Student;I'm+a+Freelance+Developer,+Designer,+Technical+Writer;Cybersecurity+•+Cloud+Computing+•+AI+•+UX/UI+Enthusiast;"></a>
 <!-- Animation Typing: END -->
+
+
+# Projects
+<!-- Meshery -->
+<p style="clear:both;">
+<h2><a href="https://layer5.io/meshery">Meshery</a></h2>
+<a href="https://meshery.io"><img src="https://github.com/layer5io/.github/blob/master/assets/meshery-logo.svg"
+style="margin:10px;" width="125px" 
+alt="Meshery - Collaborative Cloud Native Manager" align="left" /></a>
+<a href="https://meshery.io">Meshery</a> is a self-service engineering platform that enables collaborative design and operation of cloud and cloud native infrastructure.
+<br />
+<br />
+<a href="https://github.com/meshery/meshery/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery" alt="Help wanted in Meshery">
+<img alt="Help wanted in Meshery" src='https://img.shields.io/github/issues-search?label=help%20wanted&query=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22+org%3Ameshery'></a>
+<br />
+</p>
+<br />
 
 ## Connect With Me: 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
 - 📫 Email : **hello@neroshana.me**
