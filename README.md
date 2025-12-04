@@ -1,5 +1,5 @@
 <h1>
-  Hi there, I'm Neroshana!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><a href="https://www.linkedin.com/in/neroshana-me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-me"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
+  Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><a href="https://www.linkedin.com/in/neroshana-me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-me"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
 </h1>
 
 <!-- Animation Typing -->
