@@ -12,7 +12,7 @@
 ✨ Hey, I’m Neroshana — Cyber nerd in training
 - 🎓 Currently learning : BEng (Hons) Software Engineering
 - 🏫 University : APIIT Sri Lanka (TNE partner of Staffordshire University, UK)
-- ☁️ Specialisation : Cloud security, AI & Cloud-Based software development
+- ☁️ Specialisation : Cloud security, AI & Cloud-based software development
 - 🔭 Working On : My personal website
 - 🤖 Building Skills In : Cloud security, AI-powered threat detection & secure app development.
 - 🎨 Background : Ex–full-stack dev + UX/UI designer
