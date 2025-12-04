@@ -1,8 +1,10 @@
-
+<!-- Title : START -->
 <h1>
   Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
 </h1>
+<!-- Tile : END -->
 
+<!-- Social Media Icons -->
 <a href="mailto:hello@neroshana.me">
   <img src="https://img.shields.io/badge/Email-01662b?style=for-the-badge&logo=minutemailer&logoColor=000000" />
 </a>
@@ -18,12 +20,12 @@
 <a href="https://tryhackme.com/p/neroshana-me">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
+<!-- Social Media Icons: END -->
 
-
-
-<!-- Animation Typing -->
+<!-- Animation Typing: START -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=1000&lines=BEng+Software+Engineering+Student;I'm+a+Freelance+Developer,+Designer,+Technical+Writer;Cybersecurity+•+Cloud+Computing+•+AI+•+UX/UI+Enthusiast;"></a>
 <!-- Animation Typing: END -->
+
 
 ## About Me ⚡️
 ✨ Hey, I’m Neroshana — Cyber nerd in training
@@ -39,9 +41,9 @@
 
 ## Blog & Writing ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
-<!-- BLOG-POST-LIST:START -->
+<!-- Blog Post List: START -->
 - 📈 [Just a Placeholder URL 💡](https://neroshana.me/blog/hello-world)
-<!-- BLOG-POST-LIST:END -->
+<!-- Blog Post List: END -->
 
 ## Key Skills 🚀
 - 🌩️ Cloud security and secure web development (still learning)
@@ -57,13 +59,21 @@ After my 2nd year…
 
 🫱‍🫲 Let’s connect and explore opportunities!
 
+
+<!-- Interested Domains : START -->
+<details>
+  <summary>📃 Interested Domains</summary>
+  
 ## Interested Domains ⭐
 - 🛡️ Cloud Security
 - ☁️ AWS
 - 🤖 AI
 - 💻 Web Development
 - 🎨 UI/UX Development
+</details>
+<!-- Interested Domains : END -->
 
+<!-- Resume : START -->
 <details>
   <summary>📃 Resume</summary>
 
@@ -103,8 +113,13 @@ After my 2nd year…
   - 📌 Social media graphic kits and marketing materials  
   - 📌 Workflow automation and technical consulting for international clients  
 </details>
+<!-- Resume : END -->
+
 
 <hr>
+
+
+<!-- Stack : START -->
 <details>
   <summary>🛠️ Stack</summary>
 
@@ -168,9 +183,11 @@ After my 2nd year…
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-
 </details>
+<!-- Stack : END -->
 
+
+<!-- Github Stats : START -->
 ## Github Stats : 🔥
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=neroshana-me&theme=tokyonight&hide_border=true" /></p>
-
+<!-- Github Stats : END -->
