@@ -8,12 +8,12 @@
 <!-- Animation Typing: END -->
 
 ## About Me : ⚡️
-✨ Hey, I’m Neroshana!
-- 🎓 Currently surviving (and thriving) as a 1st-year Software Engineering student at APIIT Sri Lanka.
-- 🛡️ I'm on a mission to break into cybersecurity and eventually build a huge security knowledge hub — basically, the Cybersecurity Wikipedia I wish existed.
+✨ Hey, I’m Neroshana - Your friendly neighborhood cyber nerd in training.
+- 🎓 Currently surviving (and thriving) as a 1st-year Software Engineering student.
+- 🛡️ I'm on a mission to break into cybersecurity and eventually build a huge security knowledge hub.
 - 🤖 I’m learning cloud security, AI-powered threat detection, and secure app development… one bug at a time.
-- 🎨 Thanks to my past life as a full-stack dev, UX/UI designer, and graphic designer, I think about security like a designer: If users hate it, it doesn’t work.
-- 🌱 Fun Fact: I enjoy teaching people about cybersecurity almost as much as I enjoy breaking things (ethically, of course).
+- 🎨 Ex–full-stack dev + UX/UI designer, I think about security like a designer: If users hate it, it doesn’t work.
+- 🌱 Fun Fact: I break things to learn, then fix them so no one else can. Ethical chaos only.
 
 ## Blog & Writing : ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
