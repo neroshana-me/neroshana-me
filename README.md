@@ -4,7 +4,7 @@
 </h1>
 
 <a href="mailto:hello@neroshana.me">
-  <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=minutemailer&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Email-01662b?style=for-the-badge&logo=minutemailer&logoColor=000000" />
 </a>
 <a href="https://neroshana.me">
   <img src="https://img.shields.io/badge/Website-ef4a3b?style=for-the-badge&logo=About.me&logoColor=white" />
