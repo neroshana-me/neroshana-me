@@ -3,19 +3,19 @@
   Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
 
-<a href="mailto:yourmail@example.com">
-  <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=minutemailer&logoColor=000000" />
+<a href="mailto:hello@neroshana.me">
+  <img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=minutemailer&logoColor=000000" />
 </a>
 <a href="https://neroshana.me">
-  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-ef4a3b?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/neroshana-me/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/neroshana-me/">
+  <img src="https://img.shields.io/badge/LinkedIn-0c65c4?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://medium.com/@neroshana-me">
-  <img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" />
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff" />
 </a>
-<a href="https://tryhackme.com/p/your-username">
+<a href="https://tryhackme.com/p/neroshana-me">
   <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
 </a>
 
