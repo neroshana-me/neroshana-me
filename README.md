@@ -1,5 +1,5 @@
 <h1>
-  Hi there, I'm Neroshana! 🤗 <a href="https://www.linkedin.com/in/neroshana-g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-g"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
+  Hi there, I'm Neroshana! 🤗 <a href="https://www.linkedin.com/in/neroshana-me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-me"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
 </h1>
 
 <h3>BEng Software Engineering Student | Cybersecurity • Cloud Computing • AI • UX/UI Enthusiast</h3>
