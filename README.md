@@ -75,7 +75,7 @@ After my 2nd year…
 
 ## Education : 📚
 
-🎓 **Student : BEng (Hons) Software Engineering** 
+🎓 **Student : BEng (Hons) Software Engineering**\
 📆 Oct 2025 – Jun 2029 (expected)
 - ☁️ Specialising in Cloud security, AI and Cloud-based software development
 - 📍 APIIT, Sri Lanka (TNE partner of Staffordshire University, UK)
