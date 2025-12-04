@@ -33,14 +33,14 @@ Apart from studying and coding, I also maintain a blog. You can find my articles
 - 🕵️‍♂️ TryHackMe : **https://tryhackme.com/p/neroshana-me**
 
 ## Key Skills 🚀
-- 🌩️ Cloud security and secure web development
+- 🌩️ Cloud security and secure web development (still learning)
 - 🌐 E-commerce platforms (Shopify, WooCommerce) and payment gateway integration
 - ⚙️ API automation and WordPress development
 - 🎨 UX/UI and graphic design
 - 🖼️ Brand identity and digital marketing materials
 
 ## Looking for an Internship 🔎
-After 2nd Year...
+After my 2nd year…
 - 🛡️ Cloud Security, SOC Analysis
 - 🛠️ Full-Stack Development, UX/UI Design
 
@@ -51,6 +51,7 @@ After 2nd Year...
 - ☁️ AWS
 - 🤖 AI
 - 💻 Web Development
+- 🎨 UI/UX Development
 
 <details>
   <summary>📃 Resume</summary>
