@@ -58,36 +58,39 @@ After my 2nd year…
 
 ## Education : 📚
 
-🎓 **Student : BEng (Hons) Software Engineering**\
-- ☁️ Specialising in Cloud security, AI and Cloud-based software development\
-- 📆 Oct 2025 – Jun 2029 (expected)\
+🎓 **Student : BEng (Hons) Software Engineering**
+- 📆 Oct 2025 – Jun 2029 (expected)
+  
+- ☁️ Specialising in Cloud security, AI and Cloud-based software development
 - 📍 APIIT, Sri Lanka (TNE partner of Staffordshire University, UK)
 
 ## Technical Writer : ✍️
 
-💻 **Developer / Designer**\
-- 🖊️ I write technical articles on software engineering, cloud security, cybersecurity fundamentals, and developer best practices.\
-- 📆 Dec 2025 – Present\
-- 🏗️ Platforms: Neroshana.me & Medium\
-- Topics I cover include :\
-- 📌 Python & software development fundamentals\
-- 📌 Cloud security fundamentals\
-- 📌 Linux fundamentals\
-- 📌 Cybersecurity fundamentals\
+💻 **Developer / Designer**
+- 📆 Dec 2025 – Present
+  
+- 🖊️ I write technical articles on software engineering, cloud security, cybersecurity fundamentals, and developer best practices.
+- 🏗️ Platforms: Neroshana.me & Medium
+- Topics I cover include :
+- 📌 Python & software development fundamentals
+- 📌 Cloud security fundamentals
+- 📌 Linux fundamentals
+- 📌 Cybersecurity fundamentals
 - 📌 Full-stack & web development
 
 ## Freelance Technical Work : 🧑‍💻
 
-💻 **Developer / Designer**\
-- ⚙️ Specializing in web development, e-commerce, automation, branding, and cloud-focused solutions.\
-- 📆 Jan 2022 – Oct 2025\
-- 📌 Web development and e-commerce platform customization (Shopify, WooCommerce)\
-- 📌 Payment gateway integration (PCI-compliant implementations)\
-- 📌 API workflow automation\
-- 📌 WordPress theme and plugin development\
-- 📌 Graphic design, logo design, and brand identity development\
-- 📌 Design and develop email newsletters and email marketing campaigns\
-- 📌 Social media graphic kits and marketing materials\
+💻 **Developer / Designer**
+- 📆 Jan 2022 – Oct 2025
+  
+- ⚙️ Specializing in web development, e-commerce, automation, branding, and cloud-focused solutions.
+- 📌 Web development and e-commerce platform customization (Shopify, WooCommerce)
+- 📌 Payment gateway integration (PCI-compliant implementations)
+- 📌 API workflow automation
+- 📌 WordPress theme and plugin development
+- 📌 Graphic design, logo design, and brand identity development
+- 📌 Design and develop email newsletters and email marketing campaigns
+- 📌 Social media graphic kits and marketing materials
 - 📌 Workflow automation and technical consulting for international clients
 </details>
 
