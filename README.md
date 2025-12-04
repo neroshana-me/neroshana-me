@@ -62,6 +62,18 @@ After my 2nd year…
 
 <!-- Interested Domains : START -->
 <details>
+  <summary>⭐ Interested Domains</summary>
+- 🛡️ Cloud Security
+- ☁️ AWS
+- 🤖 AI
+- 💻 Web Development
+- 🎨 UI/UX Development
+</details>
+<!-- Interested Domains : END -->
+
+
+<!-- Interested Domains : START -->
+<details>
   <summary>📃 Interested Domains</summary>
   
 ## Interested Domains ⭐
