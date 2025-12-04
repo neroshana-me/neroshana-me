@@ -2,7 +2,25 @@
 <h1>
   Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 </h1>
-<a href="https://www.linkedin.com/in/neroshana-me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-me"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
+<a href="https://www.linkedin.com/in/neroshana-me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@neroshana-me"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
+<a href="mailto:yourmail@example.com">
+  <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=minutemailer&logoColor=000000" />
+</a>
+<a href="https://neroshana.me">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://neroshana.me">
+  <img src="https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=internet-explorer&logoColor=000000" />
+</a>
+<a href="https://tryhackme.com/p/your-username">
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+<a href="https://tryhackme.com/p/your-username">
+  <img src="https://img.shields.io/badge/TryHackMe-ffffff?style=for-the-badge&logo=tryhackme&logoColor=cc0000" />
+</a>
+
+
 
 <!-- Animation Typing -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=1000&lines=BEng+Software+Engineering+Student;I'm+a+Freelance+Developer,+Designer,+Technical+Writer;Cybersecurity+•+Cloud+Computing+•+AI+•+UX/UI+Enthusiast;"></a>
