@@ -4,7 +4,7 @@
 
 <h3>BEng Software Engineering Student | Cybersecurity • Cloud Computing • AI • UX/UI Enthusiast</h3>
 
-## Connect With Me: 🛰️
+## Connect With Me: 🧬
 - 📫 Email : **hello@neroshana.me**
 - 🌍 Website : **www.neroshana.me**
 - ✍️ Medium : **https://medium.com/@neroshana-me**
