@@ -2,6 +2,18 @@
   Hi there, I'm Neroshana!<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><a href="https://www.linkedin.com/in/neroshana-me/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-me"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
 </h1>
 
+<!-- Animation Typing -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=BEng+Software+Engineering+Student;I'm+a+Backend+Developer,+technical+writer;"></a>
+</p>
+<!-- Animation Typing: END -->
+
+<!-- Profile Views -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
+</p>
+<!-- Profile Views: END -->
+
 <h3>BEng Software Engineering Student | Cybersecurity • Cloud Computing • AI • UX/UI Enthusiast</h3>
 
 ## Connect With Me: 🧬
