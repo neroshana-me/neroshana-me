@@ -15,17 +15,17 @@
 - 🎨 Thanks to my past life as a full-stack dev, UX/UI designer, and graphic designer, I think about security like a designer: If users hate it, it doesn’t work.
 - 🌱 Fun Fact: I enjoy teaching people about cybersecurity almost as much as I enjoy breaking things (ethically, of course).
 
-## Connect With Me: 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
-- 📫 Email : **hello@neroshana.me**
-- 🌍 Website : **www.neroshana.me**
-- ✍️ Medium : **https://medium.com/@neroshana-me**
-- 🕵️‍♂️ TryHackMe : **https://tryhackme.com/p/neroshana-me**
-
 ## Blog & Writing : ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
 <!-- BLOG-POST-LIST:START -->
 - 📈 [Placeholder URL](https://neroshana.me/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
+
+## Connect With Me: 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
+- 📫 Email : **hello@neroshana.me**
+- 🌍 Website : **www.neroshana.me**
+- ✍️ Medium : **https://medium.com/@neroshana-me**
+- 🕵️‍♂️ TryHackMe : **https://tryhackme.com/p/neroshana-me**
 
 ## Key Skills : 🚀
 - 🌩️ Cloud security and secure web development
