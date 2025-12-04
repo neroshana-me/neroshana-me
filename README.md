@@ -1,6 +1,6 @@
 
 <h1>
-  Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+  Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px><img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
 </h1>
 
 <a href="mailto:hello@neroshana.me">
@@ -42,12 +42,6 @@ Apart from studying and coding, I also maintain a blog. You can find my articles
 <!-- BLOG-POST-LIST:START -->
 - 📈 [Just a Placeholder URL 💡](https://neroshana.me/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
-
-## Connect With Me 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
-- 📫 Email : **hello@neroshana.me**
-- 🌍 Website : **www.neroshana.me**
-- ✍️ Medium : **https://medium.com/@neroshana-me**
-- 🕵️‍♂️ TryHackMe : **https://tryhackme.com/p/neroshana-me**
 
 ## Key Skills 🚀
 - 🌩️ Cloud security and secure web development (still learning)
