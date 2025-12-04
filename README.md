@@ -8,7 +8,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=1000&lines=BEng+Software+Engineering+Student;I'm+a+Freelance+Developer,+Designer,+Technical+Writer;Cybersecurity+•+Cloud+Computing+•+AI+•+UX/UI+Enthusiast;"></a>
 <!-- Animation Typing: END -->
 
-## About Me : ⚡️
+## About Me ⚡️
 ✨ Hey, I’m Neroshana - Cyber nerd in training.
 - 🎓 Currently surviving (and thriving) as a 1st-year Software Engineering student.
 - 🛡️ I'm on a mission to break into cybersecurity and eventually build a huge security knowledge hub.
@@ -16,33 +16,44 @@
 - 🎨 Ex–full-stack dev + UX/UI designer, I think about security like a designer: If users hate it, it doesn’t work.
 - 🌱 Fun Fact: I break things to learn, then fix them so no one else can. Ethical chaos only.
 
-## Blog & Writing : ✍
+## Blog & Writing ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
 <!-- BLOG-POST-LIST:START -->
 - 📈 [Just a Placeholder URL 💡](https://neroshana.me/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
-## Connect With Me: 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
+## Connect With Me 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
 - 📫 Email : **hello@neroshana.me**
 - 🌍 Website : **www.neroshana.me**
 - ✍️ Medium : **https://medium.com/@neroshana-me**
 - 🕵️‍♂️ TryHackMe : **https://tryhackme.com/p/neroshana-me**
 
-## Key Skills : 🚀
+## Key Skills 🚀
 - 🌩️ Cloud security and secure web development
 - 🌐 E-commerce platforms (Shopify, WooCommerce) and payment gateway integration
 - ⚙️ API automation and WordPress development
 - 🎨 UX/UI and graphic design
 - 🖼️ Brand identity and digital marketing materials
 
-## Looking for an Internship : 🔎
+## Looking for an Internship 🔎
 After 2nd Year...
 - 🛡️ Cloud Security, SOC Analysis
 - 🛠️ Full-Stack Development, UX/UI Design
 
 🫱‍🫲 Let’s connect and explore opportunities!
 
-## Interested Domains: Cloud Security | AWS | Python, PHP, JavaScript & Web Development : ⭐
+## Interested Domains ⭐
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40" height="40"/> Cloud Security
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
+ AWS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+ AI
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+ Web Development 
+
+
+
+
 - 🌱 Currently learning : **BEng (Hons) Software Engineering**
 - 🏫 Univeristy : **APIIT Sri Lanka (TNE partner of Staffordshire University, UK)**
 - ☁️ Specialisation : **Cloud Security, AI & Cloud-Based Software Development**
