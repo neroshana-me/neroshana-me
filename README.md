@@ -8,7 +8,7 @@
 <!-- Animation Typing: END -->
 
 ## About Me : ⚡️
-✨ Hey, I’m Neroshana - Your friendly neighborhood cyber nerd in training.
+✨ Hey, I’m Neroshana - Cyber nerd in training.
 - 🎓 Currently surviving (and thriving) as a 1st-year Software Engineering student.
 - 🛡️ I'm on a mission to break into cybersecurity and eventually build a huge security knowledge hub.
 - 🤖 I’m learning cloud security, AI-powered threat detection, and secure app development… one bug at a time.
