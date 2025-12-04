@@ -1,10 +1,11 @@
-<!-- Title : START -->
+<!-- Title: START -->
 <h1>
   Hello, folks! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
 </h1>
-<!-- Tile : END -->
+<!-- Tile: END -->
 
-<!-- Social Media Icons -->
+
+<!-- Social Media Icons: START -->
 <a href="mailto:hello@neroshana.me">
   <img src="https://img.shields.io/badge/Email-01662b?style=for-the-badge&logo=minutemailer&logoColor=000000" />
 </a>
@@ -22,11 +23,13 @@
 </a>
 <!-- Social Media Icons: END -->
 
+
 <!-- Animation Typing: START -->
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=1000&lines=BEng+Software+Engineering+Student;I'm+a+Freelance+Developer,+Designer,+Technical+Writer;Cybersecurity+•+Cloud+Computing+•+AI+•+UX/UI+Enthusiast;"></a>
 <!-- Animation Typing: END -->
 
 
+<!-- About Me: START -->
 ## About Me ⚡️
 ✨ Hey, I’m Neroshana — Cyber nerd in training
 - 🎓 Currently learning : BEng (Hons) Software Engineering
@@ -37,55 +40,49 @@
 - 🎨 Background : Ex–full-stack dev + UX/UI designer
 - 🌍 Languages : Sinhala & English
 - ⚡ Fun Fact : I break things to learn, then fix them so no one else can. Ethical chaos only.
+<!-- About Me: START -->
 
 
+<!-- Blog & Writing: START -->
 ## Blog & Writing ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
 <!-- Blog Post List: START -->
 - 📈 [Just a Placeholder URL 💡](https://neroshana.me/blog/hello-world)
 <!-- Blog Post List: END -->
+<!-- Blog & Writing: START -->
 
+
+<!-- Key Skills: START -->
 ## Key Skills 🚀
 - 🌩️ Cloud security and secure web development (still learning)
 - 🌐 E-commerce platforms (Shopify, WooCommerce) and payment gateway integration
 - ⚙️ API automation and WordPress development
 - 🎨 UX/UI and graphic design
 - 🖼️ Brand identity and digital marketing materials
+<!-- Key Skills: END -->
 
+
+<!-- Looking for an Internship: START -->
 ## Looking for an Internship 🔎
 After my 2nd year…
 - 🛡️ Cloud Security, SOC Analysis
 - 🛠️ Full-Stack Development, UX/UI Design
 
 🫱‍🫲 Let’s connect and explore opportunities!
+<!-- Looking for an Internship: END -->
 
 
-<!-- Interested Domains : START -->
-<details>
-  <summary>⭐ Interested Domains</summary>
-- 🛡️ Cloud Security
-- ☁️ AWS
-- 🤖 AI
-- 💻 Web Development
-- 🎨 UI/UX Development
-</details>
-<!-- Interested Domains : END -->
-
-
-<!-- Interested Domains : START -->
-<details>
-  <summary>📃 Interested Domains</summary>
-  
+<!-- Interested Domains: START -->
 ## Interested Domains ⭐
 - 🛡️ Cloud Security
 - ☁️ AWS
 - 🤖 AI
 - 💻 Web Development
 - 🎨 UI/UX Development
-</details>
-<!-- Interested Domains : END -->
+<!-- Interested Domains: END -->
 
-<!-- Resume : START -->
+
+<!-- Resume: START -->
 <details>
   <summary>📃 Resume</summary>
 
@@ -125,13 +122,13 @@ After my 2nd year…
   - 📌 Social media graphic kits and marketing materials  
   - 📌 Workflow automation and technical consulting for international clients  
 </details>
-<!-- Resume : END -->
+<!-- Resume: END -->
 
 
 <hr>
 
 
-<!-- Stack : START -->
+<!-- Stack: START -->
 <details>
   <summary>🛠️ Stack</summary>
 
@@ -196,10 +193,10 @@ After my 2nd year…
 ![Arduino_IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 </details>
-<!-- Stack : END -->
+<!-- Stack: END -->
 
 
-<!-- Github Stats : START -->
+<!-- Github Stats: START -->
 ## Github Stats : 🔥
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=neroshana-me&theme=tokyonight&hide_border=true" /></p>
-<!-- Github Stats : END -->
+<!-- Github Stats: END -->
