@@ -2,6 +2,8 @@
   Hi there, I'm Neroshana! <a href="https://www.linkedin.com/in/neroshana-g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-g"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
 </h1>
 
+<h3>BEng Software Engineering Student | Cybersecurity • Cloud Computing • AI • UX/UI Enthusiast</h3>
+
 - 📫 How to reach me : **nero4edu@gmail.com**
 
 I’m a 1st-year Software Engineering student at APIIT Sri Lanka (affiliated with Staffordshire University, UK) transitioning my expertise to pursue my dream: building a comprehensive cybersecurity knowledge hub and becoming a thought leader in the cybersecurity industry.
