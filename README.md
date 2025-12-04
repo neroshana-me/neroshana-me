@@ -8,15 +8,7 @@
 </p>
 <!-- Animation Typing: END -->
 
-<!-- Profile Views -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
-</p>
-<!-- Profile Views: END -->
-
-<h3>BEng Software Engineering Student | Cybersecurity • Cloud Computing • AI • UX/UI Enthusiast</h3>
-
-## Connect With Me: 🧬
+## Connect With Me: 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
 - 📫 Email : **hello@neroshana.me**
 - 🌍 Website : **www.neroshana.me**
 - ✍️ Medium : **https://medium.com/@neroshana-me**
