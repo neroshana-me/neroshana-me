@@ -4,7 +4,8 @@
 
 <h3>BEng Software Engineering Student | Cybersecurity • Cloud Computing • AI • UX/UI Enthusiast</h3>
 
-- 📫 How to reach me : **nero4edu@gmail.com**
+## Connect with me: 🚀
+- 📫 Email : **hello@neroshana.me**
 
 I’m a 1st-year Software Engineering student at APIIT Sri Lanka (affiliated with Staffordshire University, UK) transitioning my expertise to pursue my dream: building a comprehensive cybersecurity knowledge hub and becoming a thought leader in the cybersecurity industry.
 
