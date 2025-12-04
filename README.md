@@ -82,7 +82,7 @@ After my 2nd year…
 
 ## Technical Writer : ✍️
 
-📝 **Tech Blogger / Researcher** 
+📝 **Tech Blogger / Researcher**\
 📆 Dec 2025 – Present
 - 🖊️ I write technical articles on Software Engineering, Cloud security, Cybersecurity fundamentals, and Developer best practices.
 - 🏗️ Platforms : Neroshana.me & Medium
@@ -95,7 +95,7 @@ After my 2nd year…
 
 ## Freelance Technical Work : 🧑‍💻
 
-💻 **Developer / Designer** 
+💻 **Developer / Designer**\
 📆 Jan 2022 – Oct 2025
 - ⚙️ Specializing in Web development, E-commerce, Automation, Branding, and Cloud-focused solutions.
 - 🏗️ Platforms: Freelance websites
