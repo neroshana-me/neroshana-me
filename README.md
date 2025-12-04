@@ -76,14 +76,14 @@ After my 2nd year…
 ## Education : 📚
 
 🎓 **Student : BEng (Hons) Software Engineering** 
-- 📆 Oct 2025 – Jun 2029 (expected)
+📆 Oct 2025 – Jun 2029 (expected)
 - ☁️ Specialising in Cloud security, AI and Cloud-based software development
 - 📍 APIIT, Sri Lanka (TNE partner of Staffordshire University, UK)
 
 ## Technical Writer : ✍️
 
 📝 **Tech Blogger / Researcher** 
-- 📆 Dec 2025 – Present
+📆 Dec 2025 – Present
 - 🖊️ I write technical articles on Software Engineering, Cloud security, Cybersecurity fundamentals, and Developer best practices.
 - 🏗️ Platforms : Neroshana.me & Medium
 - 🪶 Topics I cover include :
@@ -96,7 +96,7 @@ After my 2nd year…
 ## Freelance Technical Work : 🧑‍💻
 
 💻 **Developer / Designer** 
-- 📆 Jan 2022 – Oct 2025
+📆 Jan 2022 – Oct 2025
 - ⚙️ Specializing in Web development, E-commerce, Automation, Branding, and Cloud-focused solutions.
 - 🏗️ Platforms: Freelance websites
 - 🧩 Areas I cover include :  
