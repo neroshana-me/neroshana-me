@@ -34,7 +34,8 @@ Apart from studying and coding, I also maintain a blog. You can find my articles
 - 🎨 UX/UI and graphic design
 - 🖼️ Brand identity and digital marketing materials
 
-## Looking for Internship Opportunities (After 2nd Year) In : 🔎
+## Looking for Internship Opportunities In : 🔎
+<sup><sub>(After 2nd Year)</sub></sup>
 - 🛡️ Cloud Security, SOC Analysis
 - 🛠️ Full-Stack Development, UX/UI Design
 
