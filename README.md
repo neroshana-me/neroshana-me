@@ -18,7 +18,7 @@
 ## Blog & Writing : ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
 <!-- BLOG-POST-LIST:START -->
-- 📈 [Placeholder URL](https://neroshana.me/blog/hello-world)
+- 📈 [Just a Placeholder URL 💡](https://neroshana.me/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect With Me: 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
