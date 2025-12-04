@@ -65,7 +65,7 @@ After my 2nd year…
 ## Technical Writer : ✍️
 
 💻 **Tech Blogger / Researcher** - 📆 Dec 2025 – Present
-- 🖊️ I write technical articles on Software Engineering, Cloud Security, Cybersecurity fundamentals, and Developer best practices.
+- 🖊️ I write technical articles on Software Engineering, Cloud security, Cybersecurity fundamentals, and Developer best practices.
 - 🏗️ Platforms : Neroshana.me & Medium
 - 🪶 Topics I cover include :
   - 📌 Python & software development fundamentals
