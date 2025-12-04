@@ -35,7 +35,7 @@ I bring a unique foundation from my freelance background as a full-stack develop
 - ☁️ Specialisation : **Cloud Security, AI & Cloud-Based Software Development**
 - 🔭 Working on : **My Personal Website**
 - 🌍 Languages : **Sinhala & English**
-- ⚡ Fun fact : **I’m a freelance developer and designer with a growing passion for Cloud Security, I’m actively transitioning into this field.**
+- ⚡ Fun fact : **Freelance dev/designer transitioning into cloud security and AI**
 
 <details>
   <summary>📃 Resume</summary>
