@@ -3,8 +3,8 @@
 </h1>
 
 <!-- Animation Typing -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=BEng+Software+Engineering+Student;I'm+a+Backend+Developer,+technical+writer;"></a>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=500&lines=BEng+Software+Engineering+Student;I'm+a+Freelance+Developer,+Designer+,Technical+Writer;Cybersecurity+•+Cloud+Computing+•+AI+•+UX/UI+Enthusiast;"></a>
 </p>
 <!-- Animation Typing: END -->
 
