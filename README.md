@@ -13,9 +13,9 @@
 - 🎓 Currently learning : BEng (Hons) Software Engineering
 - 🏫 University : APIIT Sri Lanka (TNE partner of Staffordshire University, UK)
 - ☁️ Specialisation : Cloud Security, AI & Cloud-Based Software Development
-- 🔭 Working On : My Personal Website + a future cybersecurity knowledge hub
-- 🤖 Building Skills In : Cloud security, AI-powered threat detection & secure app development… one bug at a time.
-- 🎨 Background : Ex–full-stack dev + UX/UI designer → now designing security people don’t hate.
+- 🔭 Working On : My Personal Website
+- 🤖 Building Skills In : Cloud security, AI-powered threat detection & secure app development.
+- 🎨 Background : Ex–full-stack dev + UX/UI designer
 - 🌍 Languages : Sinhala & English
 - ⚡ Fun Fact : I break things to learn, then fix them so no one else can. Ethical chaos only.
 
