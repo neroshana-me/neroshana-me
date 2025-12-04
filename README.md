@@ -1,13 +1,14 @@
 <h1>
-  Hi there, I'm Neroshana! <a href="https://www.linkedin.com/in/neroshana-g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-g"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
+  Hi there, I'm Neroshana! 🤗 <a href="https://www.linkedin.com/in/neroshana-g/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://medium.com/@neroshana-g"><img src="https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&logo=medium&logoColor=12100E" /></a>
 </h1>
 
 <h3>BEng Software Engineering Student | Cybersecurity • Cloud Computing • AI • UX/UI Enthusiast</h3>
 
-## Connect with me: 🚀
+## Connect With Me: 🤗
 - 📫 Email : **hello@neroshana.me**
-- Medium : **https://medium.com/@neroshana-me**
-- TryHackMe : **https://tryhackme.com/p/neroshana-me**
+- 🌍 Website : **www.neroshana.me**
+- ✍️ Medium : **https://medium.com/@neroshana-me**
+- 🕵️‍♂️ TryHackMe : **https://tryhackme.com/p/neroshana-me**
 
 I’m a 1st-year Software Engineering student at APIIT Sri Lanka (affiliated with Staffordshire University, UK) transitioning my expertise to pursue my dream: building a comprehensive cybersecurity knowledge hub and becoming a thought leader in the cybersecurity industry.
 
@@ -15,24 +16,23 @@ I'm developing skills in cloud security, AI-driven threat detection, and secure 
 
 I bring a unique foundation from my freelance background as a full-stack developer, UX/UI designer and graphic designer, which shapes my user-centered approach to solving complex security challenges.
 
-Key Skills :
+## Key Skills : 🚀
+- 🌩️ Cloud security and secure web development
+- 🌐 E-commerce platforms (Shopify, WooCommerce) and payment gateway integration
+- ⚙️ API automation and WordPress development
+- 🎨 UX/UI and graphic design
+- 🖼️ Brand identity and digital marketing materials
 
-- Cloud security and secure web development
-- E-commerce platforms (Shopify, WooCommerce) and payment gateway integration
-- API automation and WordPress development
-- UX/UI and graphic design
-- Brand identity and digital marketing materials
+## Looking for Internship Opportunities (After 2nd Year) In : 🔎
+- 🛡️ Cloud Security, SOC Analysis
+- 🛠️ Full-Stack Development, UX/UI Design
 
-Looking for Internship Opportunities (After 2nd Year) In :
+🫱‍🫲 Let’s connect and explore opportunities!
 
-- Cloud Security, SOC Analysis
-- Full-Stack Development, UX/UI Design
-
-Let’s connect and explore opportunities!
-
-Interested Domains: Cloud Security | AWS | Python, PHP, JavaScript & Web Development
-
-- 🌱 Currently learning : **BEng (Hons) Software Engineering @ Staffordshire University, UK**
+## Interested Domains: Cloud Security | AWS | Python, PHP, JavaScript & Web Development : ⭐
+- 🌱 Currently learning : **BEng (Hons) Software Engineering @ **
+- 🏫 Univeristy : **APIIT Sri Lanka (TNE partner of Staffordshire University, UK)**
+- ☁️ Specialisation: **Cloud Security & Cloud-Based Software Development**
 - 🔭 Working on : **My Personal Website**
 - 🌍 Languages : **Sinhala & English**
 - ⚡ Fun fact : **I’m a freelance developer and designer with a growing passion for Cloud Security, and I’m actively transitioning into this field.**
@@ -40,19 +40,20 @@ Interested Domains: Cloud Security | AWS | Python, PHP, JavaScript & Web Develop
 <details>
   <summary>📃 Resume</summary>
 
-## Education
+## Education : 📚
 
-- 📖 **BEng (Hons) Software Engineering**\
-🧩 Specialising in Cloud Security and Cloud-Based Software Development\
+- 🎓 **BEng (Hons) Software Engineering**\
+☁️ Specialising in Cloud Security and Cloud-Based Software Development\
 📆 2025 – 2029 (expected)\
-📍 Staffordshire University, UK
+📍 APIIT, Sri Lanka
+📍 TNE partner of Staffordshire University, UK
 </details>
 
 <hr>
 <details>
-  <summary>🧠 Stack</summary>
+  <summary>🛠️ Stack</summary>
 
-## My Tech Stack
+## My Tech Stack : 🧩
 
 ![Web Design -](https://img.shields.io/badge/Web%20Design%20::-1c2277?style=for-the-badge&logo=web-design&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -114,7 +115,7 @@ Interested Domains: Cloud Security | AWS | Python, PHP, JavaScript & Web Develop
 ![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </details>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neroshana-me&" alt="neroshana-me" /></p>
 
+## Github Stats : 🚀
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=neroshana-me&theme=tokyonight&hide_border=true" /></p>
 
