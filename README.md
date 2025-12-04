@@ -12,8 +12,8 @@
 ✨ Hey, I’m Neroshana — Cyber nerd in training
 - 🎓 Currently learning : BEng (Hons) Software Engineering
 - 🏫 University : APIIT Sri Lanka (TNE partner of Staffordshire University, UK)
-- ☁️ Specialisation : Cloud Security, AI & Cloud-Based Software Development
-- 🔭 Working On : My Personal Website
+- ☁️ Specialisation : Cloud security, AI & Cloud-Based software development
+- 🔭 Working On : My personal website
 - 🤖 Building Skills In : Cloud security, AI-powered threat detection & secure app development.
 - 🎨 Background : Ex–full-stack dev + UX/UI designer
 - 🌍 Languages : Sinhala & English
@@ -65,8 +65,8 @@ After my 2nd year…
 ## Technical Writer : ✍️
 
 💻 **Tech Blogger / Researcher** - 📆 Dec 2025 – Present
-- 🖊️ I write technical articles on software engineering, cloud security, cybersecurity fundamentals, and developer best practices.
-- 🏗️ Platforms: Neroshana.me & Medium
+- 🖊️ I write technical articles on Software Engineering, Cloud Security, Cybersecurity fundamentals, and Developer best practices.
+- 🏗️ Platforms : Neroshana.me & Medium
 - 🪶 Topics I cover include :
   - 📌 Python & software development fundamentals
   - 📌 Cloud security fundamentals
@@ -77,7 +77,7 @@ After my 2nd year…
 ## Freelance Technical Work : 🧑‍💻
 
 💻 **Developer / Designer** - 📆 Jan 2022 – Oct 2025
-- ⚙️ Specializing in web development, e-commerce, automation, branding, and cloud-focused solutions.
+- ⚙️ Specializing in Web development, E-commerce, Automation, Branding, and Cloud-focused solutions.
 - 🏗️ Platforms: Freelance websites
 - 🧩 Areas I cover include :  
   - 📌 Web development and e-commerce platform customization (Shopify, WooCommerce)  
