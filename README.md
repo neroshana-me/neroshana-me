@@ -30,7 +30,7 @@ I bring a unique foundation from my freelance background as a full-stack develop
 🫱‍🫲 Let’s connect and explore opportunities!
 
 ## Interested Domains: Cloud Security | AWS | Python, PHP, JavaScript & Web Development : ⭐
-- 🌱 Currently learning : **BEng (Hons) Software Engineering @ **
+- 🌱 Currently learning : **BEng (Hons) Software Engineering**
 - 🏫 Univeristy : **APIIT Sri Lanka (TNE partner of Staffordshire University, UK)**
 - ☁️ Specialisation: **Cloud Security, AI & Cloud-Based Software Development**
 - 🔭 Working on : **My Personal Website**
