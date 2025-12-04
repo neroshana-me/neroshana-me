@@ -18,6 +18,13 @@ I'm developing skills in cloud security, AI-driven threat detection, and secure 
 
 I bring a unique foundation from my freelance background as a full-stack developer, UX/UI designer and graphic designer, which shapes my user-centered approach to solving complex security challenges.
 
+## Blog & Writing : ✍
+Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
+<!-- BLOG-POST-LIST:START -->
+- 📈 [Placeholder URL](https://neroshana.me/blog/hello-world)
+<!-- BLOG-POST-LIST:END -->
+
+
 ## Key Skills : 🚀
 - 🌩️ Cloud security and secure web development
 - 🌐 E-commerce platforms (Shopify, WooCommerce) and payment gateway integration
