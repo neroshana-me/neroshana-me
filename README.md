@@ -7,24 +7,25 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1100&width=1000&lines=BEng+Software+Engineering+Student;I'm+a+Freelance+Developer,+Designer,+Technical+Writer;Cybersecurity+•+Cloud+Computing+•+AI+•+UX/UI+Enthusiast;"></a>
 <!-- Animation Typing: END -->
 
+## About Me : ⚡️
+✨ Hey, I’m Neroshana!
+- 🎓 Currently surviving (and thriving) as a 1st-year Software Engineering student at APIIT Sri Lanka.
+- 🛡️ I'm on a mission to break into cybersecurity and eventually build a huge security knowledge hub — basically, the Cybersecurity Wikipedia I wish existed.
+- 🤖 I’m learning cloud security, AI-powered threat detection, and secure app development… one bug at a time.
+- 🎨 Thanks to my past life as a full-stack dev, UX/UI designer, and graphic designer, I think about security like a designer: If users hate it, it doesn’t work.
+- 🌱 Fun Fact: I enjoy teaching people about cybersecurity almost as much as I enjoy breaking things (ethically, of course).
+
 ## Connect With Me: 🧬 <img src="https://komarev.com/ghpvc/?username=neroshana-me&label=Profile%20views&color=0e75b6&style=flat" alt="neroshana-me" />
 - 📫 Email : **hello@neroshana.me**
 - 🌍 Website : **www.neroshana.me**
 - ✍️ Medium : **https://medium.com/@neroshana-me**
 - 🕵️‍♂️ TryHackMe : **https://tryhackme.com/p/neroshana-me**
 
-I’m a 1st-year Software Engineering student at APIIT Sri Lanka (affiliated with Staffordshire University, UK) transitioning my expertise to pursue my dream: building a comprehensive cybersecurity knowledge hub and becoming a thought leader in the cybersecurity industry.
-
-I'm developing skills in cloud security, AI-driven threat detection, and secure application development while creating educational resources to raise cybersecurity awareness among the public.
-
-I bring a unique foundation from my freelance background as a full-stack developer, UX/UI designer and graphic designer, which shapes my user-centered approach to solving complex security challenges.
-
 ## Blog & Writing : ✍
 Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
 <!-- BLOG-POST-LIST:START -->
 - 📈 [Placeholder URL](https://neroshana.me/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
-
 
 ## Key Skills : 🚀
 - 🌩️ Cloud security and secure web development
