@@ -127,6 +127,6 @@ Apart from studying and coding, I also maintain a blog. You can find my articles
 
 </details>
 
-## Github Stats : 🎯
+## Github Stats : 🔥
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=neroshana-me&theme=tokyonight&hide_border=true" /></p>
 
