@@ -43,15 +43,6 @@
 <!-- About Me: START -->
 
 
-<!-- Blog & Writing: START -->
-## Blog & Writing ✍
-Apart from studying and coding, I also maintain a blog. You can find my articles on my website at [neroshana.me](https://neroshana.me/), as well as on [Medium](https://medium.com/@neroshana-me).
-<!-- Blog Post List: START -->
-- 📈 [Just a Placeholder URL 💡](https://neroshana.me/blog/hello-world)
-<!-- Blog Post List: END -->
-<!-- Blog & Writing: START -->
-
-
 <!-- Key Skills: START -->
 ## Key Skills 🚀
 - 🌩️ Cloud security and secure web development (still learning)
